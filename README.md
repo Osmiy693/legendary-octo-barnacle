@@ -1,4 +1,4 @@
-﻿# AI Study Assistant & Course Project Manager
+# AI Study Assistant & Course Project Manager
 
 A Python Streamlit application that helps students learn more effectively by combining AI capabilities with smart study management tools. The project demonstrates **Object-Oriented Programming (OOP)** principles through a clean class hierarchy.
 
