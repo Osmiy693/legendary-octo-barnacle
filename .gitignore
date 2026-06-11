@@ -1,0 +1,32 @@
+# Environment & Secrets
+.env
+.env.local
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Data (user-generated)
+data/history.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+env/
+.venv/
